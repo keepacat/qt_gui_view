@@ -1,5 +1,7 @@
 # Prerequisites
 *.d
+QViewWidget/build
+QViewWidget/QViewWidget.pro.user
 
 # Compiled Object files
 *.slo
